@@ -2,7 +2,7 @@
 
 # Aluno : Renê César 
 
-# Clico de vida 
+# Ciclo de vida 
 - A classe Activity é quem gerencia a interface com o usuário, ela quem recebe as requisições, as trata e processa.
 
 1 - onCreate(): Ela é a primeira função a ser executada em uma Activity, geralmente a responsável por carregar os layouts do XML e outras operações de inicialização e é executada apenas uma vez. O parâmetro savedInstanceState contém os dados da instância anterior da atividade, caso ela esteja sendo recriada após uma mudança de configuração, como rotação da tela.
